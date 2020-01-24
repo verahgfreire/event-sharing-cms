@@ -1,0 +1,10 @@
+DROP TABLE EventoConteudo;
+DROP TABLE Conteudo;
+DROP TABLE PessoaCategoria;
+DROP TABLE PessoaEvento;
+DROP TABLE EventoCategoria;
+DROP TABLE Categoria;
+DROP TABLE Evento;
+DROP TABLE Pessoa;
+DROP TABLE Perfil;
+--DROP TABLE emailAccounts;
